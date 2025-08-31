@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+opencv-python
+face-recognition
+dlib
+numpy
+Pillow
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
